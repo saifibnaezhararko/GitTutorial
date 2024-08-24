@@ -1,1 +1,2 @@
-## Doing work at night. very fun
+## git init
+## git global config
