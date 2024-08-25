@@ -1,2 +1,1 @@
-## git init
-## git global config
+## My name is khan
