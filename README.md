@@ -1,5 +1,5 @@
-##My name is khan.
-##Dibakar Sutradhar
+## My name is khan.
+## Dibakar Sutradhar
  S M Shahadat Hossain
  Reduanul Houque Munna
  Ar Rolin
